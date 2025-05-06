@@ -48,6 +48,7 @@ path('login/', LoginView.as_view(), name='token_obtain_pair'),
 ChatGPT Request:
 path('chat/', ChatView.as_view(), name='chat'),
 ![5](https://github.com/user-attachments/assets/d1fdd50d-f11d-4d13-8faa-a3cab84c4f52)
+After 5 free search
 ![6](https://github.com/user-attachments/assets/e46ef2f6-2310-41c4-a831-3087c177056d)
 
 #Environment Variables
